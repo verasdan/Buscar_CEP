@@ -1,2 +1,2 @@
-# API_Buscar_CPF_CNPJ
- 
+# Buscar_CEP
+ Um simples buscador de CEP utilizando JS

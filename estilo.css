@@ -1,0 +1,35 @@
+*{
+    font-family: segoe ui;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+#content{
+    top: 120px;
+    margin: 0 auto 0 auto;
+    background-color: rgb(235, 235, 235);
+    max-width: 600px;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    /* position: absolute; */
+
+}
+#info{
+    margin-left: 190px;
+    padding: 10px;
+}
+label{
+    display: table;
+    padding: 5px;
+}
+ 
+input{
+    padding: 3px;
+}
+ 
+input[type="text"]{
+    max-width:400px;
+    width:100%;
+}
